@@ -1,7 +1,7 @@
 # livecode4.21-N-1
 
 ### Exo A
-   À l'aide du module turtle, écrivez un script qui dessine 4 étoiles dans une fenêtre avec des lignes de differente couleurs
+   À l'aide du module turtle, écrivez un script qui dessine 4 étoiles dans une fenêtre
    - Les lignes de l'étoile doivent avoir des couleurs différentes.
 
 ### Exo B
