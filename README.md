@@ -2,6 +2,7 @@
 
 ### Exo A
    À l'aide du module turtle, écrivez un script qui dessine 4 étoiles dans une fenêtre avec des lignes de differente couleurs
+   - Les lignes de l'étoile doivent avoir des couleurs différentes.
 
 ### Exo B
   
