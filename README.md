@@ -15,6 +15,7 @@
   - Pensez à vérifier si l'utilisateur possède la somme qu'il souhaite miser
   + on négligera la limitation du nombre de vies
 
-NB:
-  L'Étudiant devra choisir l'un des exercices à traiter.
- 
+
+Le travail sera réalisé par groupes de trois.
+
+Durée: 45 minutes
