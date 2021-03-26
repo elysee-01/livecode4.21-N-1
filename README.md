@@ -12,7 +12,9 @@
   - La mise est de minimum 50 pièces
   - A chaque échec le nombre de pièces misé lui est retranché
   - A chaque victoire, il obtient le triple de sa mise
- 
+  - Pensez à vérifier si l'utilisateur possède la somme qu'il souhaite miser
+  + on négligera la limitation du nombre de vies
+
 NB:
   L'Étudiant devra choisir l'un des exercices à traiter.
  
